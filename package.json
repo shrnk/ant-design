@@ -76,7 +76,7 @@
     "rc-slider": "~8.6.5",
     "rc-steps": "~3.3.0",
     "rc-switch": "~1.9.0",
-    "rc-table": "shrnk/rc-table#version-3.4.5",
+    "rc-table": "shipsy/rc-table#version-3.4.5",
     "rc-tabs": "~9.6.0",
     "rc-time-picker": "~3.6.1",
     "rc-tooltip": "~3.7.3",
